@@ -1,0 +1,16 @@
+var sum= 10+1;
+var differnce=10-1;
+var product=10*2;
+var addition=10/2;
+var increment=0;
+var decrement=5;
+var remainder=11%3;
+increment++;
+decrement--;
+console.log(sum);
+console.log(differnce);
+console.log(product);
+console.log(addition);
+console.log(increment);
+console.log(decrement);
+console.log(remainder);
